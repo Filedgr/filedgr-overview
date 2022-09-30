@@ -1,13 +1,6 @@
 # filedgr-overview
 This repository includes links to different Filedgr repositories. Please note that several of the project may not have a commit history in the last months we moved away from Github in favor of Gitlab for the more powerful CI/CD (in our opinion).
 
-## IPFS AWS Infra:
-Run IPFS as a service on AWS with Terraform, for private NFT storages.
-
-[https://github.com/Filedgr/filedgr-ipfs-master](https://github.com/Filedgr/filedgr-ipfs-master)
-
-[https://github.com/Filedgr/filedgr-ipfs-infra](https://github.com/Filedgr/filedgr-ipfs-infra)
-
 ## XRPL CLI
 __This part of project will stay open source, in the scope of our project we opted for a CLI, for the moment, in order to simply call the function via exec from various programming languages. It also simplifies the setup of our containers with the Gitlab Pypi server. We will also provide a customer facing API based on the CLI Tool.__
 We use the Ripple CLI to:
@@ -19,6 +12,21 @@ We use the Ripple CLI to:
 [https://github.com/Filedgr/filedgr-ripple-cli](https://github.com/Filedgr/filedgr-ripple-cli)
 
 __We are already aware that we should rename this and replace ripple with xrpl, we were told so.__ :-)
+
+## IPFS AWS Infra:
+Run IPFS as a service on AWS with Terraform, for private NFT storages.
+
+[https://github.com/Filedgr/filedgr-ipfs-master](https://github.com/Filedgr/filedgr-ipfs-master)
+
+[https://github.com/Filedgr/filedgr-ipfs-infra](https://github.com/Filedgr/filedgr-ipfs-infra)
+
+## IPFS Python Library
+
+The IPFS pythin library is the library we use in combination with the XRPL CLI to upload the NFT content to our private IPFS infrastructures. Since the existing libraries are not in line with the project anymore, we started the work on our own open source lib.
+
+[https://github.com/Filedgr/filedgr-python-lib-ipfs](https://github.com/Filedgr/filedgr-python-lib-ipfs)
+
+
 
 
 
