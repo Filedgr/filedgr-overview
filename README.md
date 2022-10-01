@@ -1,4 +1,15 @@
 # Filedgr Overview
+
+The repos listed below contain the codes, IaC for the following solution setup.
+
+[Infra Image](https://github.com/Filedgr/filedgr-overview/blob/main/SmartNFTDiamgram.drawio.png)
+
+Examples are:
+[https://bit.ly/3R8vnGa](https://bit.ly/3R8vnGa)
+[https://bit.ly/3C242Bo](https://bit.ly/3C242Bo)
+[https://bit.ly/3f6aw9c](https://bit.ly/3f6aw9c) __You can login via XUMM via an arbitrery wallet__
+
+
 This repository includes links to different Filedgr repositories. Please note that several of the project may not have a commit history in the last months we moved away from Github in favor of Gitlab for the more powerful CI/CD (in our opinion).
 
 ## XRPL CLI
