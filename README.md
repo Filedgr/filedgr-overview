@@ -1,4 +1,4 @@
-# filedgr-overview
+# Filedgr Overview
 This repository includes links to different Filedgr repositories. Please note that several of the project may not have a commit history in the last months we moved away from Github in favor of Gitlab for the more powerful CI/CD (in our opinion).
 
 ## XRPL CLI
