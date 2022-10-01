@@ -13,6 +13,16 @@ We use the Ripple CLI to:
 
 __We are already aware that we should rename this and replace ripple with xrpl, we were told so.__ :-)
 
+## The first Smart NFT
+
+The Vue code for our first smart NFT code is hosted below. The repo contains two versions, one protected by a OpenID login.
+[https://github.com/Filedgr/filedgr-web-nft-bp/blob/master/README.md](https://github.com/Filedgr/filedgr-web-nft-bp/blob/master/README.md)
+
+The example is given here behind this shorturl (less for tracking purposes, but the URLs are very long in our landing page, between the ipfs CID and XRPL transaction hash:
+
+__You can login via XUMM via an arbitrery wallet__
+[https://bit.ly/3f6aw9c](https://bit.ly/3f6aw9c)
+
 ## IPFS AWS Infra:
 Run IPFS as a service on AWS with Terraform, for private NFT storages.
 
