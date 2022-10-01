@@ -6,7 +6,7 @@ __This part of project will stay open source, in the scope of our project we opt
 We use the Ripple CLI to:
 - create wallets
 - set trustlines
-- issue NFTs, custom tokens with 0.000001 quantity, while waiting for the actual NFT in the mainnet, the memo points to a website hosted on our private IPFS
+- issue NFTs, custom tokens with 0.000001 quantity, while waiting for the actual NFT in the mainnet, the memo points to a website hosted on our private IPFS. We cannot wait, our customers need to be online before christmas, hance the workaround.
 - issue Transactions tokens: tokens the NFT website is going to check, they contain the lifecycle updates, in the memo
 
 [https://github.com/Filedgr/filedgr-ripple-cli](https://github.com/Filedgr/filedgr-ripple-cli)
