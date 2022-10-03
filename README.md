@@ -10,7 +10,7 @@ Examples are:
 
 [https://bit.ly/3C242Bo](https://bit.ly/3C242Bo)
 
-[https://bit.ly/3f6aw9c](https://bit.ly/3f6aw9c) __You can login via XUMM via an arbitrery wallet__
+[https://bit.ly/3y7524E](https://bit.ly/3y7524E) __You can login via XUMM via an arbitrery wallet__
 
 
 This repository includes links to different Filedgr repositories. Please note that several of the project may not have a commit history in the last months we moved away from Github in favor of Gitlab for the more powerful CI/CD (in our opinion).
@@ -35,7 +35,7 @@ The Vue code for our first smart NFT code is hosted below. The repo contains two
 The example is given here behind this shorturl (less for tracking purposes, but the URLs are very long in our landing page, with the ipfs CID and XRPL transaction hash.
 
 __You can login via XUMM via an arbitrery wallet__
-[https://bit.ly/3f6aw9c](https://bit.ly/3f6aw9c)
+[https://bit.ly/3y7524E](https://bit.ly/3y7524E)
 
 ## The second smart NFT Template
 
