@@ -12,8 +12,18 @@ Examples are:
 
 [https://bit.ly/3y7524E](https://bit.ly/3y7524E) __You can login via XUMM via an arbitrery wallet__
 
-
 This repository includes links to different Filedgr repositories. Please note that several of the project may not have a commit history in the last months we moved away from Github in favor of Gitlab for the more powerful CI/CD (in our opinion).
+
+# Status Quo
+In the current shape we create two tokens for each object:
+- The NFT, currently a custom asset issued with an amount of 0.000001 to ensure no fractions can be transfered. We will migrate to the NFT implementation once available in the mainnet. 
+- A transaction token, carrying the data about all lifecycle events of our digital twins.
+
+# Targeted in the scope of this grant
+The target we aim for is decentralized access management via token gating, to enable true self customdy and ownership. Therefore we look at implementing:
+- A browser extension wallet to sign in.
+- An NPM library to interact with the browser extension.
+- A mobile application displaying the self custody digital twins NFTs, deep linked to XUMM for signin - signatures.
 
 ## XRPL CLI
 __This part of project will stay open source, in the scope of our project we opted for a CLI, for the moment, in order to simply call the function via exec from various programming languages. It also simplifies the setup of our containers with the Gitlab Pypi server. We will also provide a customer facing API based on the CLI Tool.__
