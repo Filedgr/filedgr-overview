@@ -14,12 +14,12 @@ Examples are:
 
 This repository includes links to different Filedgr repositories. Please note that several of the project may not have a commit history in the last months we moved away from Github in favor of Gitlab for the more powerful CI/CD (in our opinion).
 
-# Status Quo
+## Status Quo
 In the current shape we create two tokens for each object:
 - The NFT, currently a custom asset issued with an amount of 0.000001 to ensure no fractions can be transfered. We will migrate to the NFT implementation once available in the mainnet. 
 - A transaction token, carrying the data about all lifecycle events of our digital twins.
 
-# Targeted in the scope of this grant
+## Targeted in the scope of this grant
 The target we aim for is decentralized access management via token gating, to enable true self customdy and ownership. Therefore we look at implementing:
 - A browser extension wallet to sign in.
 - An NPM library to interact with the browser extension.
