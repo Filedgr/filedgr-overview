@@ -28,6 +28,11 @@ The target we aim for is decentralized access management via token gating, to en
 The target solution is shown below:
 ![Infra Image](https://github.com/Filedgr/filedgr-overview/blob/main/SmartNFTDiamgram2.drawio.png)
 
+We will provide the token gating implementation for a decentralized sign-in with XRPL, as our Smart NFTs trigger the wallet for sign in and additional functions propused but the different NFT issuers:
+![Infra Image](https://github.com/Filedgr/filedgr-overview/blob/main/Screenshot%202022-10-06%20at%2013.53.44.png)
+
+The current repositories except the back-office and network CI/CD is not included are below.
+
 ## XRPL CLI
 __This part of project will stay open source, in the scope of our project we opted for a CLI, for the moment, in order to simply call the function via exec from various programming languages. It also simplifies the setup of our containers with the Gitlab Pypi server. We will also provide a customer facing API based on the CLI Tool.__
 We use the Ripple CLI to:
