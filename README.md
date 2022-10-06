@@ -25,6 +25,9 @@ The target we aim for is decentralized access management via token gating, to en
 - An NPM library to interact with the browser extension.
 - A mobile application displaying the self custody digital twins NFTs, deep linked to XUMM for signin - signatures.
 
+The target solution is shown below:
+![Infra Image](https://github.com/Filedgr/filedgr-overview/blob/main/SmartNFTDiamgram2.drawio.png)
+
 ## XRPL CLI
 __This part of project will stay open source, in the scope of our project we opted for a CLI, for the moment, in order to simply call the function via exec from various programming languages. It also simplifies the setup of our containers with the Gitlab Pypi server. We will also provide a customer facing API based on the CLI Tool.__
 We use the Ripple CLI to:
