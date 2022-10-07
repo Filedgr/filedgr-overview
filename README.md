@@ -48,7 +48,7 @@ __We are already aware that we should rename this and replace ripple with xrpl, 
 ## The first smart NFT Template
 
 The Vue code for our first smart NFT code is hosted below. The repo contains two versions, one protected by a OpenID login.
-[https://github.com/Filedgr/filedgr-web-nft-bp/blob/master/README.md](https://github.com/Filedgr/filedgr-web-nft-bp/blob/master/README.md)
+[https://github.com/Filedgr/filedgr-web-nft-bp](https://github.com/Filedgr/filedgr-web-nft-bp)
 
 The example is given here behind this shorturl (less for tracking purposes, but the URLs are very long in our landing page, with the ipfs CID and XRPL transaction hash.
 
